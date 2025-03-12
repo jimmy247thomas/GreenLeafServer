@@ -1,5 +1,5 @@
 {
-    "name": "greenleaf-server", // Your project name
+    "name": "greenleafserver", // Your project name
     "version": "1.0.0",
     "description": "Server for GreenLeaf Organics website",
     "main": "server.js",
